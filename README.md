@@ -9,12 +9,14 @@ Common Front End Resources
 ## CSS
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [CSS Tricks - CSS Selector Almanach](https://css-tricks.com/almanac/)
+* [BEM](http://getbem.com/)
 
 ## jQuery
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
 ## Email
-[CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/)
+* [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/)
+* [Responsive Email Templates](http://foundation.zurb.com/emails/email-templates.html)
 
 ## SASS/LESS
 * [SASSMeister](http://www.sassmeister.com/)
