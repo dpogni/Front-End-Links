@@ -11,5 +11,5 @@ Common Front End Resources
 
 ## Flexbox
 [CSS Tricks: A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
+*[Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
 
