@@ -4,6 +4,7 @@ Common Front End Resources
 ##General
 * [Can I Use?](http://caniuse.com/)
 * [Should I Prefix](http://shouldiprefix.com/)
+* [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ##SASS/LESS
 * [SASSMeister](http://www.sassmeister.com/)
