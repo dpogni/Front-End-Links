@@ -26,7 +26,7 @@ _(in progress)_
 
 ### Style Guides
 * [Github's Primer](http://primercss.io/)
-* [Dropbox CSS Styide Guide](https://github.com/dropbox/css-style-guide)
+* [Dropbox Css Style Guide](https://github.com/dropbox/css-style-guide)
 * [Code Guide by MDO](http://codeguide.co/)
 * [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
 
