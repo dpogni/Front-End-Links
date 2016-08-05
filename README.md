@@ -34,6 +34,12 @@ Common Front End Resources
 * [CSS Tricks: A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
 
+### Code Schools / Games
+* [Code Academy](https://www.codecademy.com/)
+* [Code School](https://www.codeschool.com/)
+* [Coding Game](https://www.codingame.com/start)
+* [Code Fights](https://codefights.com/)
+
 ### Youtube Channels
 * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 * [LearnCode.Academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
