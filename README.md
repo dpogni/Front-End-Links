@@ -24,6 +24,12 @@ _(in progress)_
 * [Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
 * [Flexbox Froggy Game](http://flexboxfroggy.com/)
 
+### Style Guides
+* [Github's Primer](http://primercss.io/)
+* [Dropbox Css Styide Guide](https://github.com/dropbox/css-style-guide)
+* [Code Guide by MDO](http://codeguide.co/)
+* [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
+
 ### Javascript
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
