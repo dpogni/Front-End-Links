@@ -24,6 +24,8 @@ _(in progress)_
 
 ### Javascript
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
+* [Eloquent Javascript](http://eloquentjavascript.net/)
+* [Javscript Patterns](http://shichuan.github.io/javascript-patterns/)
 
 ### jQuery
 * [jQuery API Docs][(http://api.jquery.com/)
