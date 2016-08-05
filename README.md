@@ -6,11 +6,7 @@ _(in progress)_
 * [Can I Use?](http://caniuse.com/)
 * [Should I Prefix](http://shouldiprefix.com/)
 * [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-### Atom Editor
-* [Atom Home](https://atom.io/)
-* [Atom Shortcut Cheat Sheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
-* [Syncing Atom Settings Between Computers](https://tommcfarlin.com/syncing-atom-settings/)
+* [SitePoint](http://sitepoint.com)
 
 ### CSS
 * [Normalize.css](https://necolas.github.io/normalize.css/)
@@ -22,13 +18,18 @@ _(in progress)_
 * [SASSMeister](http://www.sassmeister.com/)
 * [LESS Home](http://lesscss.org/)
 
+### Flexbox
+* [CSS Tricks: A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
+* [Flexbox Froggy Game](http://flexboxfroggy.com/)
+
 ### Javascript
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javscript Patterns](http://shichuan.github.io/javascript-patterns/)
 
 ### jQuery
-* [jQuery API Docs][(http://api.jquery.com/)
+* [jQuery API Docs](http://api.jquery.com/)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
 ### Email
@@ -38,10 +39,10 @@ _(in progress)_
 ### Testing
 * [Choose Your Own Adventure to Learn Usability Testing Basics](http://jessicaivins.net/choose-your-own-adventure-to-learn-usability-testing-basics/)
 
-### Flexbox
-* [CSS Tricks: A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
-* [Flexbox Froggy Game](http://flexboxfroggy.com/)
+### Atom Editor
+* [Atom Home](https://atom.io/)
+* [Atom Shortcut Cheat Sheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
+* [Syncing Atom Settings Between Computers](https://tommcfarlin.com/syncing-atom-settings/)
 
 ### Sandboxes/Rapid Prototyping
 * [Codepen](http://codepen.com)
