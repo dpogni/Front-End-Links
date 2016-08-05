@@ -6,6 +6,15 @@ Common Front End Resources
 * [Should I Prefix](http://shouldiprefix.com/)
 * [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
+### Sandboxes/Rapid Prototyping
+* [Codepen](http://codepen.com)
+* [JSFiddle](https://jsfiddle.net/)
+
+### Random Tools
+* [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio/)
+* [Convert Case](https://convertcase.net/)
+* [Alphabetizer](http://alphabetizer.flap.tv/)
+
 ### Atom Editor
 * [Atom Home](https://atom.io/)
 * [Atom Shortcut Cheat Sheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
@@ -22,6 +31,7 @@ Common Front End Resources
 * [LESS Home](http://lesscss.org/)
 
 ### jQuery
+* [jQuery API Docs][(http://api.jquery.com/)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
 ### Email
@@ -30,15 +40,12 @@ Common Front End Resources
 
 ### Testing
 * [Choose Your Own Adventure to Learn Usability Testing Basics](http://jessicaivins.net/choose-your-own-adventure-to-learn-usability-testing-basics/)
-
-### Accessibility
- 
  
 ### Flexbox
 * [CSS Tricks: A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
 
-### Code Schools / Games
+### Code Schools / Code Games
 * [Code Academy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
 * [Coding Game](https://www.codingame.com/start)
