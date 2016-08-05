@@ -11,7 +11,7 @@ _(in progress)_
 * [CSS Wizardry's Articles](http://csswizardry.com/)
 * [SitePoint](http://sitepoint.com)
 
-### CSS
+## CSS
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [CSS Tricks - CSS Selector Almanach](https://css-tricks.com/almanac/)
 * [Brad Frost's (massive) Responsive Patters & Resources](http://bradfrost.github.io/this-is-responsive/)
@@ -33,7 +33,7 @@ _(in progress)_
 * [Code Guide by MDO](http://codeguide.co/)
 * [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
 
-### Javascript
+## Javascript
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javscript Patterns](http://shichuan.github.io/javascript-patterns/)
