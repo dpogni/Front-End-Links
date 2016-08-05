@@ -6,7 +6,7 @@ Common Front End Resources
 * [Should I Prefix](http://shouldiprefix.com/)
 * [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
-### Atom
+### Atom Editor
 * [Atom Home](https://atom.io/)
 * [Atom Shortcut Cheat Sheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
 * [Syncing Atom Settings Between Computers](https://tommcfarlin.com/syncing-atom-settings/)
@@ -14,6 +14,7 @@ Common Front End Resources
 ### CSS
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [CSS Tricks - CSS Selector Almanach](https://css-tricks.com/almanac/)
+* [Brad Frost's (massive) Responsive Patters & Resources](http://bradfrost.github.io/this-is-responsive/)
 * [BEM](http://getbem.com/)
 
 ### SASS/LESS
