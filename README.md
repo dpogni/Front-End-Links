@@ -39,7 +39,7 @@ _(in progress)_
 * [jQuery API Docs](http://api.jquery.com/)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
-### Email
+### Email Deveopment
 * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/)
 * [Responsive Email Templates](http://foundation.zurb.com/emails/email-templates.html)
 
