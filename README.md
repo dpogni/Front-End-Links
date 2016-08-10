@@ -41,7 +41,6 @@ _(in progress)_
 ### jQuery
 * [jQuery API Docs](http://api.jquery.com/)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
-* [Selector Caching](https://ttmm.io/tech/selector-caching-jquery/)
 
 ### Design
 * [Designing For Retina](https://bjango.com/articles/designingforretina/)
