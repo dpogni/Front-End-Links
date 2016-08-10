@@ -16,6 +16,7 @@ _(in progress)_
 * [CSS Tricks - CSS Selector Almanach](https://css-tricks.com/almanac/)
 * [Brad Frost's (massive) Responsive Patters & Resources](http://bradfrost.github.io/this-is-responsive/)
 * [BEM](http://getbem.com/)
+* [Rem vs Ems](http://zellwk.com/blog/rem-vs-em/)
 
 ### SASS/LESS
 * [LESS Home](http://lesscss.org/)
