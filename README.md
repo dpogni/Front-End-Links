@@ -11,7 +11,7 @@ _(in progress)_
 * [CSS Wizardry's Articles](http://csswizardry.com/)
 * [SitePoint](http://sitepoint.com)
 
-## CSS
+## Style
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [CSS Tricks - CSS Selector Almanach](https://css-tricks.com/almanac/)
 * [Brad Frost's (massive) Responsive Patters & Resources](http://bradfrost.github.io/this-is-responsive/)
@@ -45,6 +45,8 @@ _(in progress)_
 
 ### Design
 * [Designing For Retina](https://bjango.com/articles/designingforretina/)
+
+## General
 
 ### Email Deveopment
 * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/)
