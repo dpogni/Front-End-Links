@@ -48,6 +48,10 @@ _(in progress)_
 
 ## General
 
+### Git
+* [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
+* [Add Git Branch Name to Terminal Prompt - Mac](http://mfitzp.io/article/add-git-branch-name-to-terminal-prompt-mac/)
+
 ### Email Deveopment
 * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/)
 * [Responsive Email Templates](http://foundation.zurb.com/emails/email-templates.html)
