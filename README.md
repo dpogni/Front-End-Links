@@ -1,6 +1,6 @@
 # Front-End-Links
 Common Front End Resources  
-_(in progress)_
+_(work in progress)_
 
 ### General
 * [Can I Use?](http://caniuse.com/)
