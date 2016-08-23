@@ -11,7 +11,7 @@ _(work in progress)_
 * [CSS Wizardry's Articles](http://csswizardry.com/)
 * [SitePoint](http://sitepoint.com)
 
-## Style
+## Styling
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [CSS Tricks - CSS Selector Almanach](https://css-tricks.com/almanac/)
 * [Brad Frost's (massive) Responsive Patters & Resources](http://bradfrost.github.io/this-is-responsive/)
