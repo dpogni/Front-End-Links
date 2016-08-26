@@ -1,4 +1,4 @@
-# Front-End-Links
+# Front End Links
 Common Front End Resources  
 _(work in progress)_
 
