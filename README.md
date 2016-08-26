@@ -35,6 +35,7 @@ _(work in progress)_
 * [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
 
 ## Javascript
+*[JS The Right Way](http://jstherightway.org/)
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javscript Patterns](http://shichuan.github.io/javascript-patterns/)
