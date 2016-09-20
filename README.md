@@ -56,6 +56,8 @@ _(work in progress)_
 ### Email Deveopment
 * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/)
 * [Fundation for Emails - Zurb](http://foundation.zurb.com/emails.html)
+* [Responsive Email Resources](http://responsiveemailresources.com/)
+* [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 
 ### Testing
 * [Choose Your Own Adventure to Learn Usability Testing Basics](http://jessicaivins.net/choose-your-own-adventure-to-learn-usability-testing-basics/)
