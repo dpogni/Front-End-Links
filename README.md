@@ -75,6 +75,7 @@ _(work in progress)_
 * [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio/)
 * [Convert Case](https://convertcase.net/)
 * [Alphabetizer](http://alphabetizer.flap.tv/)
+* [Relative Path Generator](http://superuser.com/questions/140590/how-to-calculate-a-relative-path-from-two-absolute-paths-in-linux-shell)
 
 ### Code Schools / Code Games
 * [Code Academy](https://www.codecademy.com/)
