@@ -35,7 +35,7 @@ _(work in progress)_
 * [Airbnb's Javascript Style Guide](https://github.com/airbnb/javascript)
 
 ## Javascript
-*[JS The Right Way](http://jstherightway.org/)
+* [JS The Right Way](http://jstherightway.org/)
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javscript Patterns](http://shichuan.github.io/javascript-patterns/)
@@ -77,9 +77,12 @@ _(work in progress)_
 * [Alphabetizer](http://alphabetizer.flap.tv/)
 * [Relative Path Generator](http://superuser.com/questions/140590/how-to-calculate-a-relative-path-from-two-absolute-paths-in-linux-shell)
 
-### Code Schools / Code Games
+### Code Schools
 * [Code Academy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
+* [Javscript 30](https://javascript30.com)
+
+### Code Games
 * [Coding Game](https://www.codingame.com/start)
 * [Code Fights](https://codefights.com/)
 
