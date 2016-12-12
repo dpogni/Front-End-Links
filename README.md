@@ -27,6 +27,7 @@ _(work in progress)_
 * [CSS Tricks: A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flexbox SASS Mixin](https://github.com/mastastealth/sass-flex-mixin)
 * [Flexbox Froggy Game](http://flexboxfroggy.com/)
+* [Flexbox.io video series - Wes Bos](http://flexbox.io/)
 
 ### Style Guides
 * [Github's Primer](http://primercss.io/)
@@ -39,6 +40,7 @@ _(work in progress)_
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javscript Patterns](http://shichuan.github.io/javascript-patterns/)
+* [Javscript 30 - Wes Bos](https://javascript30.com)
 
 ### jQuery
 * [jQuery API Docs](http://api.jquery.com/)
@@ -80,7 +82,6 @@ _(work in progress)_
 ### Code Schools
 * [Code Academy](https://www.codecademy.com/)
 * [Code School](https://www.codeschool.com/)
-* [Javscript 30](https://javascript30.com)
 
 ### Code Games
 * [Coding Game](https://www.codingame.com/start)
