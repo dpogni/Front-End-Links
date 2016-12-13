@@ -2,10 +2,6 @@
 Common Front End Resources  
 _(work in progress)_
 
-### Interview Quesetions
-* [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* [Khan Front End Interview Questions](http://khan4019.github.io/front-end-Interview-Questions/html.html)
-
 ### Blogs / Articles
 * [CSS Wizardry's Articles](http://csswizardry.com/)
 * [SitePoint](http://sitepoint.com)
@@ -50,6 +46,10 @@ _(work in progress)_
 * [Designing For Retina](https://bjango.com/articles/designingforretina/)
 
 ## General
+
+### Interview Quesetions
+* [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Khan Front End Interview Questions](http://khan4019.github.io/front-end-Interview-Questions/html.html)
 
 ### Git
 * [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
