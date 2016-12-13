@@ -2,10 +2,9 @@
 Common Front End Resources  
 _(work in progress)_
 
-### General
+### Interview Quesetions
 * [Front End Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* [Can I Use?](http://caniuse.com/)
-* [Should I Prefix](http://shouldiprefix.com/)
+* [Khan Front End Interview Questions](http://khan4019.github.io/front-end-Interview-Questions/html.html)
 
 ### Blogs / Articles
 * [CSS Wizardry's Articles](http://csswizardry.com/)
@@ -17,6 +16,7 @@ _(work in progress)_
 * [Brad Frost's (massive) Responsive Patters & Resources](http://bradfrost.github.io/this-is-responsive/)
 * [BEM](http://getbem.com/)
 * [Rem vs Ems](http://zellwk.com/blog/rem-vs-em/)
+* [Responsive Patters & Resources by Brad Frost](https://bradfrost.github.io/this-is-responsive/)
 
 ### SASS/LESS
 * [LESS Home](http://lesscss.org/)
@@ -73,11 +73,16 @@ _(work in progress)_
 * [Codepen](http://codepen.com)
 * [JSFiddle](https://jsfiddle.net/)
   
-### Random Tools
+### Cross-Browser Helpers
+* [Can I Use?](http://caniuse.com/)
+* [Should I Prefix](http://shouldiprefix.com/)
+
+### Hosted Tools
 * [Aspect Ratio Calculator](http://andrew.hedges.name/experiments/aspect_ratio/)
 * [Convert Case](https://convertcase.net/)
 * [Alphabetizer](http://alphabetizer.flap.tv/)
 * [Relative Path Generator](http://superuser.com/questions/140590/how-to-calculate-a-relative-path-from-two-absolute-paths-in-linux-shell)
+
 
 ### Code Schools
 * [Code Academy](https://www.codecademy.com/)
