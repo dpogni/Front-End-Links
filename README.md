@@ -1,5 +1,5 @@
 # Front End Links
-Common Front End Resources  
+Common Front End Resources
 _(work in progress)_
 
 ### Blogs / Articles
@@ -15,9 +15,10 @@ _(work in progress)_
 * [Responsive Patters & Resources by Brad Frost](https://bradfrost.github.io/this-is-responsive/)
 
 ### SASS/LESS
+* [Sass Home](http://sass-lang.com/)
+* [Sass Meister](http://www.sassmeister.com/)
 * [LESS Home](http://lesscss.org/)
-* [SASS Home](http://sass-lang.com/)
-* [SASSMeister](http://www.sassmeister.com/)
+* [LESS Tester](http://lesstester.com/)
 
 ### Flexbox
 * [CSS Tricks: A Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -69,8 +70,8 @@ _(work in progress)_
 * [Atom Shortcut Cheat Sheet](http://blog.bugsnag.com/atom-editor-cheat-sheet)
 * [Syncing Atom Settings Between Computers](https://tommcfarlin.com/syncing-atom-settings/)
 
-### Sandboxes/Rapid Prototyping
-* [Codepen](http://codepen.com)
+### Rapid Prototyping Playgrounds
+* [CodePen](http://codepen.io)
 * [JSFiddle](https://jsfiddle.net/)
   
 ### Cross-Browser Helpers
