@@ -35,7 +35,7 @@ _(work in progress)_
 ## Javascript
 * [JS The Right Way](http://jstherightway.org/)
 * [MDN (Mozilla Developer Network)](https://developer.mozilla.org)
-* [Clean Code Javascript)](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 * [Javscript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Javscript 30 - Wes Bos](https://javascript30.com)
