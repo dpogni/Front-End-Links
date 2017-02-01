@@ -1,6 +1,5 @@
 # Front End Links
 Common Front End Resources
-_(work in progress)_
 
 ### Blogs / Articles
 * [CSS Wizardry's Articles](http://csswizardry.com/)
